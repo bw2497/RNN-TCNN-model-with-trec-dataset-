@@ -1,0 +1,8 @@
+E:\annocanda\envs\d2l\python.exe E:\python-project-nlp\test.py
+{'ABBR:abb': 0,
+ 'ABBR:exp': 1,
+  'DESC:def': 2,
+  'DESC:desc': 3,
+   'DESC:manner': 4,
+   'DESC:reason': 5, 'ENTY:animal': 6, 'ENTY:body': 7, 'ENTY:color': 8, 'ENTY:cremat': 9, 'ENTY:currency': 10, 'ENTY:dismed': 11, 'ENTY:event': 12, 'ENTY:food': 13, 'ENTY:instru': 14, 'ENTY:lang': 15, 'ENTY:letter': 16, 'ENTY:other': 17, 'ENTY:plant': 18, 'ENTY:product': 19, 'ENTY:religion': 20, 'ENTY:sport': 21, 'ENTY:substance': 22, 'ENTY:symbol': 23, 'ENTY:techmeth': 24, 'ENTY:termeq': 25, 'ENTY:veh': 26, 'ENTY:word': 27, 'HUM:desc': 28, 'HUM:gr': 29, 'HUM:ind': 30, 'HUM:title': 31, 'LOC:city': 32, 'LOC:country': 33, 'LOC:mount': 34, 'LOC:other': 35, 'LOC:state': 36, 'NUM:code': 37, 'NUM:count': 38, 'NUM:date': 39, 'NUM:dist': 40, 'NUM:money': 41, 'NUM:ord': 42, 'NUM:other': 43, 'NUM:perc': 44, 'NUM:period': 45, 'NUM:speed': 46, 'NUM:temp': 47, 'NUM:volsize': 48, 'NUM:weight': 49}
+
